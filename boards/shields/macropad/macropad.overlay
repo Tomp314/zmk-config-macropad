@@ -1,4 +1,4 @@
-#include "drtkb.dtsi"
+#include "macropad.dtsi"
 
   &kscan0 {
     input-gpios = 
