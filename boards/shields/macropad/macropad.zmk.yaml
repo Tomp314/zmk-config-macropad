@@ -1,0 +1,10 @@
+file_format: "1"
+id: macropad
+name: macropad
+type: shield
+url: https://github.com/Tomp314/zmk-config-macropad
+features:
+  - keys
+outputs:
+  - usb
+  - ble
