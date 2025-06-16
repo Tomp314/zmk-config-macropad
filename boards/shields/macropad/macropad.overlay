@@ -13,6 +13,6 @@
       <&gpio1 11 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>,   // Key 9
       <&gpio1 13 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>,   // Key 10
       <&gpio1 15 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>,  // Key 11
-      <&gpio1 6 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>,  // Key 12
-    >;
+      <&gpio1 6 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>;  // Key 12
+
 };
