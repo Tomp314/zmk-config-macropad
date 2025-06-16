@@ -1,3 +1,4 @@
-build: zmk-keyboard-macropad
+name: zmk-keyboard-macropad
+build:
   settings:
     board_root: .
